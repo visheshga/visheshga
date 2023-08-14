@@ -1,4 +1,4 @@
-![bannerprofile](https://github.com/visheshga/visheshga/assets/118824609/97fef409-c984-4e5a-beac-4b6129ce5669)
+![remage](https://github.com/visheshga/visheshga/assets/118824609/6b9cb651-89c6-4ba9-a507-54e9d2f17396)
 <h1 align="center">Hi 👋, I'm Vishesh Garg</h1>
 <h3 align="center">A Passionate Web Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=visheshga&label=Profile%20views&color=0e75b6&style=flat" alt="visheshga" /> </p>
